@@ -4,7 +4,7 @@ using namespace std ;
 
 int main(){
 
-	
+	cout << "666"
 	cout << "first test";
 
 		cout << "test";
