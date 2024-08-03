@@ -4,6 +4,9 @@ using namespace std ;
 
 int main(){
 
-  cout << "test":
-  return 0;
+	
+	cout << "first test";
+
+		cout << "test";
+return 0;
 }
